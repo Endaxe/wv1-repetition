@@ -13,11 +13,9 @@ image {
 
 .topnav {
     background-color: #424B54;
-
   width: 1250px;
   height: 150px;
   right: 10px;
-  margin-top: 0%;
 }
 
 .topnav a {
