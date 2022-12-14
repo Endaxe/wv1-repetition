@@ -1,0 +1,32 @@
+image {
+    max-width: 100%;
+    width: 100%;
+
+}
+
+.center {
+    max-width: min(80ch, 100vw - 4rem);
+    margin-inline: auto;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Vesper Libre', serif;
+}
+
+.topnav {
+    background-color: #424B54;
+
+  width: 1250px;
+  height: 150px;
+  right: 10px;
+  margin-top: 0%;
+}
+
+.topnav a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    
+  }
